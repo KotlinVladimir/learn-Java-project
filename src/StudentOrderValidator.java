@@ -31,7 +31,7 @@ public class StudentOrderValidator {
         return new AnswerWedding();
     }
     static AnswerChildren checkChildren(StudentOrder so){
-        System.out.println("AnswerChildren");
+        System.out.println("AnswerChildrenn");
         return new AnswerChildren();
     }
     static AnswerStudent checkStudent(StudentOrder so){
